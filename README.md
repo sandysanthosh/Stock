@@ -1,10 +1,28 @@
-# Stock
+# Stocks
 
-Stock Tips and Tricks
+### Buy and sell Stocks:
 
+GROWW.IN
+
+ZERODHA KITE
+
+5PAISA
+
+ANGEL BROKING
+
+#### FOREX any country from India:
+
+TRANSERWISE Web app
+
+Wise.com/login/
+
+#### CRYPTO any Country from India:
+
+COINDCX GO app 
+
+#### Stocks Tips and Tricks:
 
 https://www.screener.in/
-
 
 
 Airport:
