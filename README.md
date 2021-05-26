@@ -20,6 +20,10 @@ Wise.com/login/
 
 COINDCX GO app 
 
+#### option chain and pay off chart:
+
+https://opstra.definedge.com/
+
 #### Stocks Tips and Tricks:
 
 https://www.screener.in/
